@@ -1,3 +1,5 @@
+npm i @vercel/analytics
+
 function resultadodenuncia(){
     var r = document.getElementById('resultado');
     var disstaff = document.getElementById('disstaff').value;
