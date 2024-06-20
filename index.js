@@ -1,4 +1,4 @@
-import { Analytics } from "@vercel/analytics/react"
+
 
 function resultadodenuncia(){
     var r = document.getElementById('resultado');
@@ -78,5 +78,5 @@ function copiarRelatorio(){
     }
     
     window.getSelection().removeAllRanges();
-    <Analytics/>
+   
 }
