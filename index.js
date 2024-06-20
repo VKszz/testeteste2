@@ -78,4 +78,5 @@ function copiarRelatorio(){
     }
     
     window.getSelection().removeAllRanges();
+    <Analytics/>
 }
